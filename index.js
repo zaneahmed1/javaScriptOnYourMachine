@@ -1,5 +1,6 @@
 function addFruit(fruits, fruit) {
     fruits.push(fruit);
+    
     return fruits;
   }
   
